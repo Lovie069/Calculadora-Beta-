@@ -16,4 +16,5 @@ Paso 7 (En Rama_2)
 
 Paso 8 (En main desde GitHub)
 
+Paso 9 (En main desde VSC)
 
