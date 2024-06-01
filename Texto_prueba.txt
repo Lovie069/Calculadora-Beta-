@@ -14,6 +14,6 @@ Paso 6 (En master)
 
 Paso 7 (En Rama_2)
 
-
+Paso 8 (En main desde GitHub)
 
 
